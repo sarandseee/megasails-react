@@ -36,7 +36,7 @@ const Home = () => {
                   muted
                 />
                 <div className="content">
-                  <h2 className="text-center" >Dream Yacht: Perfect Shadow</h2>
+                  <h2 className="text-center">Dream Yacht: Perfect Shadow</h2>
                   <p className="text-center px-5">
                     Did you have new, used and featured yacht plan? You will
                     find it all with MEGASAILS.
@@ -54,7 +54,9 @@ const Home = () => {
                   muted
                 />
                 <div className="content">
-                  <h2 className="text-center">Yacht broker's complete solution</h2>
+                  <h2 className="text-center">
+                    Yacht broker's complete solution
+                  </h2>
                   <p className="text-center px-5">
                     Your ultimate yacht broker solution, offering detailed
                     services for all your needs.
@@ -132,7 +134,9 @@ const Home = () => {
         <Container>
           <Row className="mb-2">
             <Col xs={12} md={8}>
-              <h5 className="siteTextColor mb-md-3 fw-bold">Yacht's Class Name</h5>
+              <h5 className="siteTextColor mb-md-3 fw-bold">
+                Yacht's Class Name
+              </h5>
               <hr className="mb-3 mb-lg-4" />
               <Row className="mb-3">
                 <Col xs={12} md={6}>
@@ -158,12 +162,14 @@ const Home = () => {
               </Row>
             </Col>
             <Col xs={12} md={4}>
-              <h5 className="siteTextColor mb-md-3 fw-bold">Our Yacht Services</h5>
+              <h5 className="siteTextColor mb-md-3 fw-bold">
+                Our Yacht Services
+              </h5>
               <hr className="mb-3 mb-lg-4" />
               <Row className="mb-2">
                 <Col xs={12} md={12}>
                   <ul className="m-0 p-0">
-                    <li className="list fs-6">Insurance</li>
+                    <li className="list fs-6">saravanan</li>
                     <li className="list fs-6">Financing</li>
                     <li className="list fs-6">Brokerage</li>
                     <li className="list fs-6">Hurricane Storage</li>
